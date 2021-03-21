@@ -1,0 +1,80 @@
+html, body {background: #0C0C08; font-family: 'Helvetica'; font-size: 20px; color: #A4C2A5;}
+
+.clear {clear: both;}
+
+
+.myDetails {
+	padding: 25px 35px;
+	background: #0C0C08;
+}
+
+#name h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	font-family: 'Rokkitt';
+	margin-bottom: -6px;
+}
+
+
+
+#myHead {
+	width: 15%;
+	float: right;
+	margin-right: 30px;
+  border: 2px solid #FFFFFF;
+}
+
+#myHead img {
+	width: 100%;
+	height: auto;
+
+}
+
+#name {
+	float: ;
+}
+
+
+.sectionTitle {
+	float: left;
+	width: 25%;
+}
+
+.mainContent {
+	float: left;
+	width: 80%;
+}
+
+.sectionTitle h1 {
+	font-family: 'Rokkitt';
+	font-style: italic;
+	font-size: 2.1em;
+	color: #6FFFE9;
+}
+
+.mainContent img {
+	width: 45%;
+}
+
+.mainContent h2 {
+	font-family: 'Rokkitt';
+	font-size: 1.5em;
+	margin-bottom: -2px;
+  color: #F4CB15;
+}
+
+.mainContent h3 {
+	font-family: 'Rokkitt';
+	font-style: italic;
+	font-size: 1.1em;
+	margin-bottom: -2px;
+  color: #FF6978
+}
+
+
+.mainContent h1 {
+	font-family: 'Rokkitt';
+	font-style: italic;
+	font-size: 2.1em;
+	margin-bottom: -2px;
+}
